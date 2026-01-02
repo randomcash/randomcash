@@ -1,4 +1,5 @@
 <div align="center">
+
 [![GitLab](https://img.shields.io/badge/-More_active_on_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/randomcash)
 
 *Microsoft keeps making GitHub shittier with every feature they release, so I moved most of my stuff to GitLab.*
@@ -28,7 +29,7 @@ bigboi@randomcash:~$ neofetch
 +            ▀██ 14 ▄ 31  ▄ 9  ▄ 22  ██▀               js/ts: callback hell enjoyer
 -               ▀▀▀▀▀███████████▀▀▀▀▀                  git: git push --force (on main)
 +                                                      linux: arch on my PC btw
--                                                      macos: functional ARM laptop (sorry linux fanboys)
+-                                                      macos: functional ARM laptop
 +                                                      docker: it works on my machine™
 ```
 
@@ -36,7 +37,7 @@ bigboi@randomcash:~$ neofetch
 
 <div align="center">
 
-### Languages and tools:
+### how I keep shooting myself in the foot:
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
